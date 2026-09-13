@@ -1,1 +1,1 @@
-Line 1: Server setting set to BETA
+Line 1: Feature branch version
