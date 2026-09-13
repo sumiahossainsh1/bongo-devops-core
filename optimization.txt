@@ -1,1 +1,1 @@
-Line 1: Server setting set to ALPHA
+Line 1: Server setting set to ALPHA_BETA_COMBINED
